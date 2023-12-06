@@ -78,7 +78,7 @@ return (
         />
 
         <button className= 'container' type = 'button'
-                onClick={()=> resetCounts()}
+                onClick={resetCounts}
         >
             Reset
 
